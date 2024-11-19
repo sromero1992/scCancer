@@ -96,10 +96,13 @@ If so, you can install a formerly available version manually from its [archive](
     * Link: [GitHub](https://github.com/immunogenomics/harmony)
     * Installation: `devtools::install_github("immunogenomics/harmony")`
 
-* `liger`: 
-    * Link: [GitHub](https://github.com/MacoskoLab/liger)
-    * Installation: `devtools::install_github("MacoskoLab/liger")`
+* `rliger`: 
+    * Link: [GitHub](https://github.com/welch-lab/liger)
+    * Installation: `devtools::install_github("welch-lab/liger")`
 
+* `nnlm`:
+    * Link: [GitHub](https://github.com/linxihui/NNLM)
+    * Installation: `devtools::install_github("linxihui/NNLM")`
 
 
 

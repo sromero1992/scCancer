@@ -22,7 +22,7 @@ After the computational analyses, detailed and graphical reports were generated 
 
 ## Current version
 
-* scCancer 2.2.1 (update at 2021.03.02)
+* scCancer 2.2.1 (update at 2021.03.02) (Requires r-version-4.4
 * [All version log](https://github.com/wguo-research/scCancer/wiki/Version-Log)
 
 ## Installation

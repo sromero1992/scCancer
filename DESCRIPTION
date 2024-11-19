@@ -43,6 +43,6 @@ Imports:
     survival,
     survminer,
     harmony,
-    liger
+    rliger
 Depends: R (>= 3.5.0)
 biocViews:
